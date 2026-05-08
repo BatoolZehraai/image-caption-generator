@@ -62,3 +62,5 @@ Future Scope: * Transition to Transformer-based models like BLIP or ViT-GPT2.
 Fine-tuning on the MS-COCO dataset (330k+ images) for better generalization.
 
 Implementing Attention Mechanisms to focus on specific image regions.
+<img width="727" height="750" alt="image" src="https://github.com/user-attachments/assets/134889b4-b3c5-4ace-b966-4e27d862cda0" />
+
