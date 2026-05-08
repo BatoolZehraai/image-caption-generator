@@ -1,5 +1,3 @@
-Here is a professional and comprehensive README.md template specifically tailored for your project. You can copy this directly into your file.
-
 📸 AI Image Caption Generator
 An end-to-end Deep Learning project that generates human-like descriptions for images using a CNN-LSTM architecture.
 
