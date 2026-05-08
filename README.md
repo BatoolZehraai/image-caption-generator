@@ -36,7 +36,7 @@ Preprocessing: Pillow (PIL), OpenCV
 Clone the Repo:
 
 Bash
-git clone https://github.com/your-username/image-caption-generator.git
+git clone https://github.com/BatoolZehraai/image-caption-generator.git
 cd image-caption-generator
 Setup Virtual Environment:
 
